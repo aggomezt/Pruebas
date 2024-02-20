@@ -1,6 +1,10 @@
 printf("Hola mundo");
 
 
+a = 1;
+//No leas esto o te mueres
+i = 0;
+
 
 
 x = 3+5;
