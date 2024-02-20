@@ -1,3 +1,4 @@
 printf("Hola mundo");
 a = 1;
 //No leas esto o te mueres
+i = 0;
